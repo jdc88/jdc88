@@ -1,7 +1,7 @@
 # Hi, I'm Josephine Choi |˶˙ᵕ˙ )ﾉﾞ⊹ ࣪ ˖
 
 CS @ CSUF ✦ Incoming MS @ Georgia Tech  
-AI/ML ✧ Software Engineering ✧ Educational Technology
+AI/ML ✧ Software Engineering
 
 I enjoy building thoughtful, impactful technology through artificial intelligence, machine learning, and full-stack development.
 
