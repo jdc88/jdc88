@@ -1,6 +1,6 @@
 # Hi, I'm Josephine Choi |˶˙ᵕ˙ )ﾉﾞ
 
-### CS @ CSUF ✦ Incoming MSCS @ Georgia Tech (Fall 2026)
+### CS @ CSUF ✦ Incoming MS @ Georgia Tech (Fall 2026)
 #### AI/ML ✧ Software Engineering ✧ Educational Technology
 
 Computer Science graduate passionate about building impactful technology through artificial intelligence, machine learning, and software engineering. I enjoy creating projects that combine technical depth with real-world usability, especially in AI, education, and interactive experiences.
