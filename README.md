@@ -50,7 +50,10 @@ I'm especially interested in opportunities where I can deepen my understanding o
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/josephine-choi-linked-in/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser)](https://yourwebsite.com)
+
+<a href="https://github.com/YOURUSERNAME">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 ---
 
