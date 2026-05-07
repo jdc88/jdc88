@@ -1,7 +1,7 @@
-# Hi, I'm Josephine Choi 👋
+# Hi, I'm Josephine Choi |˶˙ᵕ˙ )ﾉﾞ
 
 ### CS @ CSUF ✦ Incoming MSCS @ Georgia Tech (Fall 2026)
-#### AI/ML • Software Engineering • Educational Technology
+#### AI/ML ✧ Software Engineering ✧ Educational Technology
 
 Computer Science graduate passionate about building impactful technology through artificial intelligence, machine learning, and software engineering. I enjoy creating projects that combine technical depth with real-world usability, especially in AI, education, and interactive experiences.
 
@@ -12,8 +12,6 @@ Computer Science graduate passionate about building impactful technology through
 - Artificial Intelligence & Machine Learning
 - Generative AI & AI Agents
 - Full-Stack Development
-- Human-Centered Technology
-- Educational Technology
 - Ethical & Sustainable AI
 
 ---
@@ -40,15 +38,6 @@ I'm especially interested in opportunities where I can deepen my understanding o
 
 ---
 
-## 📌 Interests
-
-- AI for Education & Accessibility
-- Sustainable and Efficient AI Systems
-- Interactive Learning Experiences
-- Full-Stack Applications
-- Responsible Technology Development
-
----
 
 ## ✨ About Me
 
@@ -60,9 +49,8 @@ I'm especially interested in opportunities where I can deepen my understanding o
 
 ## 📫 Connect With Me
 
-- LinkedIn: [your-linkedin]
+- LinkedIn: [[your-linkedin](https://www.linkedin.com/in/josephine-choi-linked-in/)]
 - Portfolio: [your-portfolio]
-- Email: [your-email]
 
 ---
 
