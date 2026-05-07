@@ -1,4 +1,4 @@
-# Hi, I'm Josephine Choi |˶˙ᵕ˙ )ﾉﾞ⊹ ࣪ ˖
+# hi! im josephine |˶˙ᵕ˙ )ﾉﾞ⊹ ࣪ ˖
 
 CS @ CSUF ✦ Incoming MS @ Georgia Tech  
 AI/ML ✧ Software Engineering
