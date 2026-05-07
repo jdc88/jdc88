@@ -49,7 +49,7 @@ I'm especially interested in opportunities where I can deepen my understanding o
 
 ## 📫 Connect With Me
 
-- LinkedIn: [[your-linkedin](https://www.linkedin.com/in/josephine-choi-linked-in/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/josephine-choi-linked-in/))
 - Portfolio: [your-portfolio]
 
 ---
