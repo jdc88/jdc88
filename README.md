@@ -1,57 +1,18 @@
-# Hi, I'm Josephine Choi |˶˙ᵕ˙ )ﾉﾞ
+# Hi, I'm Josephine Choi 👋
 
-### CS @ CSUF ✦ Incoming MS @ Georgia Tech (Fall 2026)
-#### AI/ML ✧ Software Engineering ✧ Educational Technology
+CS @ CSUF ✦ Incoming MSCS @ Georgia Tech  
+AI/ML ✧ Software Engineering ✧ Educational Technology
 
-Computer Science graduate passionate about building impactful technology through artificial intelligence, machine learning, and software engineering. I enjoy creating projects that combine technical depth with real-world usability, especially in AI, education, and interactive experiences.
+I enjoy building thoughtful, impactful technology through artificial intelligence, machine learning, and full-stack development.
 
----
+## Tech
+`Python` `Java` `TypeScript` `React` `Next.js` `FastAPI` `PostgreSQL`
 
-## 🌱 Currently Exploring
+## Connect
 
-- Artificial Intelligence & Machine Learning
-- Generative AI & AI Agents
-- Full-Stack Development
-- Ethical & Sustainable AI
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
 
----
-
-## 💻 Tech Stack
-
-### Languages
-`Python` `Java` `JavaScript` `TypeScript` `HTML/CSS` `SQL`
-
-### Technologies & Tools
-`React` `Node.js` `Git/GitHub` `VS Code` `Linux` `Pygame`
-
----
-
-## 🚀 What I'm Looking For
-
-- AI/ML Internships
-- Software Engineering Internships
-- Research Opportunities
-- Hackathons & Collaborative Projects
-- New Graduate Opportunities
-
-I'm especially interested in opportunities where I can deepen my understanding of AI systems, machine learning, and impactful software development.
-
----
-
-
-## ✨ About Me
-
-- Teaching Calculus strengthened my passion for making complex concepts engaging and approachable.
-- I enjoy building projects that combine creativity, usability, and technical problem-solving.
-- Excited about the future of AI and its potential to positively impact learning, accessibility, and discovery.
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/josephine-choi-linked-in/))
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
 
 ---
 
