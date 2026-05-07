@@ -50,7 +50,7 @@ I'm especially interested in opportunities where I can deepen my understanding o
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/josephine-choi-linked-in/))
-- Portfolio: [your-portfolio]
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser)](https://yourwebsite.com)
 
 ---
 
