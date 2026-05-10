@@ -1,6 +1,7 @@
 # hi! im josephine    |˶˙ᵕ˙ )ﾉﾞ⊹ ࣪ ˖
 
 CS @ CSUF ✦ Incoming MS @ Georgia Tech
+
 Software Engineering ✧ AI/ML
 
 ## Let's Connect!
