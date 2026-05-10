@@ -1,9 +1,7 @@
 # hi! im josephine    |˶˙ᵕ˙ )ﾉﾞ⊹ ࣪ ˖
 
-CS @ CSUF ✦ Incoming MS @ Georgia Tech  
-AI/ML ✧ Software Engineering
-
-I enjoy building thoughtful, impactful technology through artificial intelligence, machine learning, and full-stack development.
+CS @ CSUF ✦ Incoming MS @ Georgia Tech
+Software Engineering ✧ AI/ML
 
 ## Let's Connect!
 
