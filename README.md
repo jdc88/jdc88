@@ -1,6 +1,6 @@
 # hi! im josephine    |˶˙ᵕ˙ )ﾉﾞ⊹ ࣪ ˖
 
-Incoming MS @ Georgia Tech ✦ CSUF CS Alumna ✦
+MS @ Georgia Tech ✦ CSUF CS Alumna ✦
 
 AI/ML ✧ Software Engineering 
 
